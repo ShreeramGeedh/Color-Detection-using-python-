@@ -12,6 +12,7 @@ an application through which you can automatically get the name of the color
 by clicking on them.
 So for this, we will have a data file that contains the color name and its values.
 Then we will calculate the distance from each color and find the shortest one.
+
 The Dataset
 Colours are made up of 3 primary colours; red, green, and blue. In computers,
 we define each colour value within a range of 0 to 255. So in how many ways
