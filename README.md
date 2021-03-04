@@ -37,6 +37,9 @@ calculating the RGB value of that pixel which will be selected.
 
 #### Required packages:
 OpenCV 
+
 numpy
+
 pandas
+
 argparse
