@@ -26,3 +26,11 @@ our dataset has been taken from this link:
 The colors.csv file includes 865 color names along with their RGB and hex
 values. 
 
+## Aim & Objective :
+In this color detection Python project, we are going to build an
+application through which you can automatically get the name of the color by
+clicking on them. So for this, we will have a data file that contains the color
+name and its values. Then we will calculate the distance from each color and
+find the shortest one.
+To implement a program that can predict any object (image) colour by
+calculating the RGB value of that pixel which will be selected. 
