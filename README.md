@@ -34,3 +34,9 @@ name and its values. Then we will calculate the distance from each color and
 find the shortest one.
 To implement a program that can predict any object (image) colour by
 calculating the RGB value of that pixel which will be selected. 
+
+#### Required packages:
+OpenCV 
+numpy
+pandas
+argparse
