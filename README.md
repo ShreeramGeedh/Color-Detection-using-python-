@@ -13,7 +13,7 @@ by clicking on them.
 So for this, we will have a data file that contains the color name and its values.
 Then we will calculate the distance from each color and find the shortest one.
 
-## The Dataset
+### The Dataset
 Colours are made up of 3 primary colours; red, green, and blue. In computers,
 we define each colour value within a range of 0 to 255. So in how many ways
 we can define a colour? The answer is 256*256*256 = 16,581,375. There are
@@ -22,7 +22,7 @@ we need to map each color’s values with their corresponding names. But
 don’t worry, we don’t need to map all the values. We will be using a dataset that contains RGB values with their corresponding names. The CSV file for
 our dataset has been taken from this link:
 
-## Colors Dataset
+### Colors Dataset
 The colors.csv file includes 865 color names along with their RGB and hex
 values. 
 
